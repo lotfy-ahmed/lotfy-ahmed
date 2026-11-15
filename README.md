@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Lotfy Ahmed 👋
 
-<!--
-**lotfy-ahmed/lotfy-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a programming student at WE Applied Technology School, interested in software development and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- HTML5
+- CSS3
+- JavaScript
+
+### 📚 Currently Learning
+- Web Development
+- Computer Science Fundamentals (CS50)
+
+### 🚀 Goals
+- Build practical web development projects.
+- Improve my problem-solving skills.
+- Develop strong software engineering fundamentals.
+
+### 📫 Connect with me
+- LinkedIn: Coming soon
+
+---
+
+*Always learning, building, and improving.*
